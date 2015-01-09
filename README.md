@@ -3,11 +3,9 @@ Wifi-Analyzer
 
 ## ScreenShot:
 
-### Channel Graph:
-Normal Mode:　　　　　
-[[/ScreenShot/ChannelGraph.png|width=100px]]
-Highlight Mode:　　　　　
-[[/ScreenShot/ChannelGraph-Highlight_mode.png|width=100px]]
+### Channel Graph:　　　　　　　　　　　　　　　　　
+<img src="/ScreenShot/ChannelGraph.png" alt="Normal Mode" width="360" height="640">
+<img src="/ScreenShot/ChannelGraph-Highlight_mode.png" alt="Highlight Mode" width="360" height="640">
 　　　　　
-### AP List:　
-[[/ScreenShot/AP_List.png|width=100px]]
+### AP List:　　　　　　　
+<img src="/ScreenShot/AP_List.png" alt="Normal Mode" width="360" height="640">
